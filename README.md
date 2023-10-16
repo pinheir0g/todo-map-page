@@ -1,11 +1,10 @@
 # Todo Map Page
 
----
 Principais interações da página mapeadas para o código.
 
 ## Sobre
 
----
+
 Esse projeto é uma implementação de automação de testes que utiliza o padrão 
 Page Object Model (POM) e uma Domain Specific Language (DSL) para interagir 
 com o [Todo List.](https://github.com/pinheir0g/todo_app) 
@@ -17,7 +16,7 @@ interface de interação entre o webdriver do navegador e o código de teste.
 
 ## Requisitos
 
----
+
 Como o `Todo Map Page` foi feito para testar o [Todo List](https://github.com/pinheir0g/todo_app) 
 que criei, é preciso ter o projeto instalado e rodando localmente para que os testes funcionem.
 
@@ -36,7 +35,6 @@ poetry install
 
 ## Configuração do ChromeDriver
 
----
 
 Este projeto utiliza o `chromedriver-autoinstaller` para simplificar a configuração do ChromeDriver. 
 Se você estiver usando o Google Chrome como o seu navegador de teste, o `chromedriver-autoinstaller` fará o download 
@@ -64,7 +62,7 @@ criar a instância do `Chrome()`:
 
 ## Testando
 
----
+
 Antes de rodar os testes, certifique de ter instalado o [Todo List](https://github.com/pinheir0g/todo_app)
 e que ele esteja rodando na sua máquina local.
 
