@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "curso-de-selenium"
+name = "Todo Page Map"
 version = "0.1.0"
 description = ""
 authors = ["pinheir0g <gv.pinheiro@outlook.com>"]
 readme = "README.md"
-packages = [{include = "curso_de_selenium"}]
+packages = [{include = "Todo Page Map"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
