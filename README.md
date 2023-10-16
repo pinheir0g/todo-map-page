@@ -25,7 +25,7 @@ Pode fazer a instalação utilizando poetry ou pip
 
 - Usando pip
 ```Bash
-pip install -r requiriments.txt
+pip install -r requirements.txt
 ```
 
 - Usando poetry
