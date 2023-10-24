@@ -62,12 +62,24 @@ criar a instância do `Chrome()`:
 
 ## Testando
 
-
 Antes de rodar os testes, certifique de ter instalado o [Todo List](https://github.com/pinheir0g/todo_app)
 e que ele esteja rodando na sua máquina local.
 
 ### Utilizando Pytest
-Na raiz do projeto, rode
+Na raiz do projeto, rode:
    ```bash
    pytest -v tests/test_page_mapper.py
    ```
+
+
+## To-Do List e RTM
+
+Antes de iniciar esse projeto, criei uma RTM para testar o TodoList e garantir que todos os requisitos fossem testados.
+
+### Requirements Traceability Matrix (RTM)
+
+Requirements Traceability Matrix (RTM) é um documento que mapeia e rastreia os requisitos do usuário com casos de teste. Captura todos os requisitos propostos pelo cliente e a rastreabilidade dos requisitos em um único documento. 
+
+O principal objetivo da Matriz de Rastreabilidade de Requisitos é validar que todos os requisitos sejam verificados por meio de casos de teste, de forma que nenhuma funcionalidade seja desmarcada durante o teste de software.
+
+Acesse [Requirements Traceability Matrix (RTM)](docs/RTM.pdf) para visualizar o documento.
